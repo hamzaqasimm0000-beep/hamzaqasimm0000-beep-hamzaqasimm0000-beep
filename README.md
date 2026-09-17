@@ -1,20 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=HAMZA%20QASIM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=HAMZA%20QASIM&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20COMPUTER%20SCIENCE%20STUDENT&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Aspiring+AI+Engineer;Machine+Learning+%7C+Python+%7C+C%2B%2B;Full-Stack+%7C+Mobile+Development;Building+Practical+AI+Systems;Turning+Ideas+Into+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Aspiring+AI+Engineer;Machine+Learning+%7C+Python+%7C+C%2B%2B;Full-Stack+%7C+Mobile+Development;Building+Practical+AI+Systems;Computer+Science+Student+at+Air+University" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Python-4C1D95?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Software%20Engineering-Full%20Stack-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.au.edu.pk/">
+<img src="https://img.shields.io/badge/Air%20University-Computer%20Science-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-AI%2FML-6366F1?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://islamabadcapitalterritory.gov.pk/">
 <img src="https://img.shields.io/badge/Islamabad-Pakistan-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/hamza-qasim-75a0a830/">
+<a href="mailto:hamzaqasimofficial@gmail.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hamzaqasimofficial@gmail.com">
@@ -22,9 +31,6 @@
 </a>
 <a href="https://github.com/hamzaqasimm0000-beep">
 <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/hamza_clipss/">
-<img src="https://img.shields.io/badge/Instagram-@hamza__clipss-4C1D95?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -39,20 +45,20 @@
 
 ## `01` — ABOUT
 
-Computer Science student building toward a career in **Artificial Intelligence, Machine Learning, and Software Engineering**.
+Computer Science student at **Air University** building toward a career in **Artificial Intelligence and Machine Learning**.
 
-My engineering foundation spans **Python, C++, machine learning, data analysis, full-stack development, mobile applications, and databases**. I enjoy transforming ideas into practical software systems — from machine-learning prediction applications to multi-module AI architectures.
+My engineering foundation spans **Python, C++, machine learning, data analysis, full-stack development, mobile applications, and databases**. I enjoy transforming ideas into practical software systems — from machine-learning prediction applications to multi-modal AI architectures.
 
 My current focus is on strengthening my capabilities in **AI/ML, deep learning, computer vision, software engineering, and product-oriented development**, while continuing to build systems that connect intelligent models with usable interfaces.
 
 ### Engineering Mindset
 
-* Build solutions around real-world problems
-* Understand systems beyond individual components
-* Combine AI with practical software engineering
-* Develop clean, scalable and maintainable applications
-* Continuously improve through hands-on projects
-* Translate ML concepts into usable products
+- Build solutions around real-world problems
+- Understand systems beyond individual components
+- Combine AI with practical software engineering
+- Develop clean, scalable and maintainable applications
+- Continuously improve through hands-on projects
+- Translate ML concepts into usable products
 
 ### Open To
 
@@ -94,15 +100,15 @@ My current focus is on strengthening my capabilities in **AI/ML, deep learning, 
 
 ## `03` — AI / ML EXPERTISE
 
-| Domain           |  Proficiency | Details                                                            |
-| ---------------- | :----------: | ------------------------------------------------------------------ |
-| Machine Learning | `████████░░` | ML fundamentals, regression, preprocessing and model development   |
-| Data Analysis    | `███████░░░` | Exploratory analysis, dataset preparation and structured reporting |
-| Python for AI    | `████████░░` | Python-based data and machine-learning workflows                   |
-| Computer Vision  | `██████░░░░` | Current area of development and deeper specialization              |
-| Deep Learning    | `██████░░░░` | Building foundational knowledge toward advanced AI systems         |
-| AI Systems       | `███████░░░` | Multi-module AI architecture and end-to-end system design          |
-| ML Deployment    | `██████░░░░` | API-based model serving and full-stack ML integration              |
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Machine Learning | `████████░░` | ML fundamentals, regression, preprocessing and model development |
+| Data Analysis | `███████░░░` | Exploratory analysis, dataset preparation and structured reporting |
+| Python for AI | `████████░░` | Python-based data and machine-learning workflows |
+| Computer Vision | `██████░░░░` | Current area of development and deeper specialization |
+| Deep Learning | `██████░░░░` | Building foundational knowledge toward advanced AI systems |
+| AI Systems | `███████░░░` | Multi-module AI architecture and end-to-end system design |
+| ML Deployment | `██████░░░░` | API-based model serving and full-stack ML integration |
 
 ---
 
@@ -117,24 +123,24 @@ A full-stack machine-learning application designed to predict used-car prices us
 
 The system connects a **React frontend**, **Node.js REST API**, and **KNN regression model** into an end-to-end prediction workflow.
 
-| Category        | Details                                                              |
-| --------------- | -------------------------------------------------------------------- |
-| **Stack**       | React · Node.js · REST API · Python · KNN Regression                 |
-| **Scale**       | Pakistani used-car market dataset                                    |
-| **Performance** | Real-time prediction through API serving                             |
-| **Security**    | API-based architecture with separated frontend/backend layers        |
-| **Impact**      | Converts ML predictions into a practical consumer-facing application |
-| **Repository**  | [GitHub Profile](https://github.com/hamzaqasimm0000-beep)            |
+| Category | Details |
+|---|---|
+| **Stack** | React · Node.js · REST API · Python · KNN Regression |
+| **Scale** | Pakistani used-car market dataset |
+| **Performance** | Real-time prediction through API serving |
+| **Security** | API-based architecture with separated frontend/backend layers |
+| **Impact** | Converts ML predictions into a practical consumer-facing application |
+| **Repository** | [View Repository](https://github.com/hamzaqasimm0000-beep) |
 
 ### Engineering Scope
 
-* Designed the complete ML pipeline from data preprocessing to prediction
-* Trained a KNN regression model on Pakistani used-car data
-* Developed a React-based frontend
-* Implemented Node.js REST API backend
-* Connected the trained model with live prediction serving
-* Integrated machine learning into a complete full-stack application
-* Defended system architecture and results during academic evaluation
+- Designed the complete ML pipeline from data preprocessing to prediction
+- Trained a KNN regression model on Pakistani used-car data
+- Developed a React-based frontend
+- Implemented Node.js REST API backend
+- Connected the trained model with live prediction serving
+- Integrated machine learning into a complete full-stack application
+- Defended system architecture and results during academic viva
 
 </details>
 
@@ -149,25 +155,25 @@ A multi-module AI framework focused on analyzing social-media authenticity throu
 
 The architecture covers **Fake Follower Detection, Misinformation Classification, Deepfake Scanning, and Trust Score Generation**.
 
-| Category        | Details                                                         |
-| --------------- | --------------------------------------------------------------- |
-| **Stack**       | AI/ML · Data Analysis · Multi-Modal AI · System Architecture    |
-| **Scale**       | Multi-module fraud and authenticity detection framework         |
-| **Performance** | Designed for modular analysis and unified scoring               |
-| **Security**    | Focused on authenticity, misinformation and fraudulent behavior |
-| **Impact**      | Unifies multiple social-media trust signals into one system     |
-| **Repository**  | [GitHub Profile](https://github.com/hamzaqasimm0000-beep)       |
+| Category | Details |
+|---|---|
+| **Stack** | AI/ML · Data Analysis · Multi-Modal AI · System Architecture |
+| **Scale** | Multi-module fraud and authenticity detection framework |
+| **Performance** | Designed for modular analysis and unified scoring |
+| **Security** | Focused on authenticity, misinformation and fraudulent behavior |
+| **Impact** | Unified multiple social-media trust signals into one system |
+| **Repository** | [View Repository](https://github.com/hamzaqasimm0000-beep) |
 
 ### Engineering Scope
 
-* Designed the complete system architecture
-* Defined multiple independent AI detection modules
-* Developed the Fake Follower Detection component scope
-* Defined Misinformation Classification workflow
-* Integrated Deepfake Scanning into the overall architecture
-* Designed a unified Trust Score Engine
-* Documented complete system flow and project scope
-* Developing as a Final Year Project
+- Designed the complete system architecture
+- Defined multiple independent AI detection modules
+- Developed the Fake Follower Detection component scope
+- Defined Misinformation Classification workflow
+- Integrated Deepfake Scanning into the overall architecture
+- Designed a unified Trust Score Engine
+- Documented complete system flow and project scope
+- Developing as a Final Year Project at Air University
 
 </details>
 
@@ -183,12 +189,12 @@ Contributed to applied AI/ML initiatives while gaining practical exposure to the
 
 **Scope**
 
-* Data preparation and preprocessing
-* Exploratory data analysis
-* Early-stage model development
-* Applied AI/ML problem solving
-* Team-based engineering workflows
-* Exposure to end-to-end machine-learning pipelines
+- Data preparation and preprocessing
+- Exploratory data analysis
+- Early-stage model development
+- Applied AI/ML problem solving
+- Team-based engineering workflows
+- Exposure to end-to-end machine-learning pipelines
 
 `Python` `Machine Learning` `Data Analysis` `AI/ML`
 
@@ -202,12 +208,12 @@ Worked on field and survey data collection, management and analysis to support s
 
 **Scope**
 
-* Collected field and survey data
-* Used digital data-collection tools
-* Maintained data accuracy and completeness
-* Compiled datasets
-* Performed structured analysis
-* Produced reports supporting organizational decisions
+- Collected field and survey data
+- Used digital data-collection tools
+- Maintained data accuracy and completeness
+- Compiled datasets
+- Performed structured analysis
+- Produced reports supporting organizational decisions
 
 `Data Collection` `Data Management` `Data Analysis` `Reporting`
 
@@ -221,11 +227,11 @@ Delivered short-form video content for digital platforms with an emphasis on pol
 
 **Scope**
 
-* Edited YouTube Shorts
-* Edited Instagram Reels
-* Applied motion graphics
-* Synchronized audio and video
-* Produced client-focused short-form content
+- Edited YouTube Shorts
+- Edited Instagram Reels
+- Applied motion graphics
+- Synchronized audio and video
+- Produced client-focused short-form content
 
 `Video Editing` `Motion Graphics` `CapCut Pro` `Premiere Pro`
 
@@ -235,13 +241,13 @@ Delivered short-form video content for digital platforms with an emphasis on pol
 
 <div align="center">
 
-| Recognition               | Details                                                                      |
-| ------------------------- | ---------------------------------------------------------------------------- |
-| 🏆 Academic Projects      | Designed and defended full-stack ML systems during academic evaluation       |
-| 🤖 AI / ML Development    | Built practical AI/ML projects spanning prediction and multi-modal detection |
-| 💻 Full-Stack Engineering | Integrated machine-learning models with full-stack application architectures |
-| 🎬 Freelance Experience   | Delivered client-oriented digital content through freelance platforms        |
-| 🚀 Continuous Learning    | Expanding skills across AI, software engineering and product development     |
+| Recognition | Details |
+|---|---|
+| 🏆 Academic Projects | Designed and defended full-stack ML systems during academic evaluation |
+| 🤖 AI / ML Development | Built practical AI/ML projects spanning prediction and multi-modal detection |
+| 💻 Full-Stack Engineering | Integrated machine-learning models with production-style web architectures |
+| 🎬 Freelance Experience | Delivered client-oriented digital content through freelance platforms |
+| 🎓 Computer Science | Pursuing BS Computer Science at Air University |
 
 </div>
 
@@ -279,10 +285,21 @@ Delivered short-form video content for digital platforms with an emphasis on pol
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-Not%20Listed-312E81?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-Not%20Listed-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-<img src="https://img.shields.io/badge/HackerRank-Not%20Listed-312E81?style=for-the-badge&logo=hackerrank&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeChef-Not%20Listed-312E81?style=for-the-badge&logo=codechef&logoColor=white" />
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-181A1B?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
 
 </div>
 
@@ -358,7 +375,7 @@ current_focus:
   exploring:
     - Multi-Modal AI
     - AI Product Engineering
-    - AI Model Deployment
+    - ML Model Deployment
     - Intelligent Software Systems
 
   open_to:
@@ -367,42 +384,3 @@ current_focus:
     - Research Collaboration
     - Open Source Projects
     - AI Engineering Projects
-```
-
----
-
-## `14` — CONNECT
-
-<div align="center">
-
-<a href="mailto:hamzaqasimofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/hamza-qasim-75a0a830/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/hamzaqasimm0000-beep">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/hamza_clipss/">
-<img src="https://img.shields.io/badge/Instagram-@hamza__clipss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Let's build intelligent software that solves real-world problems.**
-
-</div>
-
----
-
-<div align="center">
-
-### `ENGINEER • LEARN • BUILD • ITERATE`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:4c1d95&height=130&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
